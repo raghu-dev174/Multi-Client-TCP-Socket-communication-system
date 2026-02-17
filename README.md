@@ -1,12 +1,12 @@
-# CN Socket Project – TCP Client-Server
+CN Socket Project – TCP Client-Server
 
-> **Project Title:** You can replace this with your own project name (e.g. "TCP Echo Service – CN Lab").
 
-A **Computer Networks** academic project demonstrating TCP socket programming in Python: a multi-client echo server, a client with input validation and timeouts, and a clear message protocol.
 
----
+A Computer Networks academic project demonstrating TCP socket programming in Python: a multi-client echo server, a client with input validation and timeouts, and a clear message protocol.
 
-## Table of Contents
+
+
+Table of Contents
 
 - [Project Structure](#project-structure)
 - [Concepts Used](#concepts-used)
@@ -17,11 +17,11 @@ A **Computer Networks** academic project demonstrating TCP socket programming in
 - [What Happens When a Connection Is Established](#what-happens-when-a-connection-is-established)
 - [TCP vs UDP](#tcp-vs-udp)
 
----
 
-## Project Structure
 
-```
+Project Structure
+
+
 cn_socket_project/
 ├── server/
 │   ├── __init__.py
@@ -44,7 +44,7 @@ cn_socket_project/
 
 ---
 
-## Concepts Used
+ Concepts Used
 
 | Concept   | Meaning |
 |----------|---------|
@@ -57,7 +57,7 @@ cn_socket_project/
 
 ---
 
-## Setup Instructions
+Setup Instructions
 
 1. **Python**  
    Use Python **3.8 or newer** (for type hints and standard library).
@@ -215,8 +215,3 @@ Our code does not create SYN/ACK/FIN ourselves; the OS TCP stack does that when 
 
 This project uses **TCP** because we want reliable, ordered delivery and a long-lived connection for multiple request–response exchanges.
 
----
-
-## License
-
-For academic use; replace with your course/project details as needed.
