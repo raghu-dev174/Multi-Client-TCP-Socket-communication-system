@@ -1,0 +1,8 @@
+2026-02-17 11:06:55 | INFO     | server | Server bound to 0.0.0.0:5000
+2026-02-17 11:06:55 | INFO     | server | Server listening (backlog=5). Waiting for connections...
+2026-02-17 11:07:24 | INFO     | server | Client connected: 127.0.0.1:65316
+2026-02-17 11:07:24 | INFO     | server | Received from 127.0.0.1:65316: Hello
+2026-02-17 11:07:24 | INFO     | server | Client 127.0.0.1:65316 closed connection.
+2026-02-17 11:07:24 | INFO     | server | Client 127.0.0.1:65316 handling finished.
+2026-02-17 11:13:55 | INFO     | server | Server bound to 0.0.0.0:5000
+2026-02-17 11:13:55 | INFO     | server | Server listening (backlog=5). Waiting for connections...

@@ -1,0 +1,7 @@
+# CN Socket Project - Dependencies
+# Python 3.8+ required. This project uses only the standard library.
+# No external packages are required for core functionality.
+#
+# Optional (for development):
+# pytest>=7.0.0
+# black>=22.0.0
